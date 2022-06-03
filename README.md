@@ -17,7 +17,11 @@ El **objetivo secundario del programa** se descibe en los siguientes 4 puntos:
  * El *LED* (blanco) del *uC* enciende cada que el *uC* envía un mensaje al *broker*.
 
 A continuación se muestra el circuito realizado:
-[Figura del circuito]
+[Figura del monitor serial]
+
+!(C:\Users\ThinkPad\Downloads\Screenshot_20220531_184717)
+
+!(https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
 
 A continuación se muestra la lectura de datos en el monitor serial de la *IDE* de *Arduino*:
 [Figura del monitor serial]
