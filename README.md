@@ -17,20 +17,28 @@ El **objetivo secundario del programa** se descibe en los siguientes 4 puntos:
  * El *LED* (blanco) del *uC* enciende cada que el *uC* envía un mensaje al *broker*.
 
 A continuación se muestra el circuito realizado:
-[Figura del monitor serial]
 
-!(C:\Users\ThinkPad\Downloads\Screenshot_20220531_184717)
+[Figura del circuito]
 
-!(https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
+![](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
 
 A continuación se muestra la lectura de datos en el monitor serial de la *IDE* de *Arduino*:
+
 [Figura del monitor serial]
 
+![](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
+
 A continuación se muestra la lectura de la temperatura en *OpenHAB*:
+
 [Figura de la temp en OH]
 
+![](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
+
 A continuación se muestra la lectura de la humedad relativa en *OpenHAB*:
-[Figura de la temp en OH]
+
+[Figura de la humedad en OH]
+
+![](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
 
 A continuación se muestra una liga con información del sensor DHT11: [Sensor DHT11](https://naylampmechatronics.com/sensores-temperatura-y-humedad/57-sensor-de-temperatura-y-humedad-relativa-dht11.html)
 
